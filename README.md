@@ -1,13 +1,13 @@
 # Overview
 
-This is a basic Hello World program. I created this to demonstrate the use of Visual Studio Code, GitHub, and PHP integrated together.
+This is a basic Hello World program. I created this to demonstrate the use of Visual Studio Code, GitHub, and XAMPP Apache webserver with the PHP programming language integrated for version control.
 
 You can watch a demo of my software here:
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/kxWSdb30pGc)
 
 # Development Environment
 
-- XAMPP Software - includes PHP and apache webserver
+- XAMPP Software - includes PHP programming language and Apache webserver
 
 * Visual Studio Code
 * Git / GitHub
